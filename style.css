@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1, h2, h3, h4, h5, h6, p, em {
+  color: #ffffff;
+}
+
+body {
+  background-color: #56595E;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: end;
+}
+
+.titre {
+  font-family: 'Amatic SC', cursive;
+  font-size: 85px;
+  text-align: center;
+}
+
+.header_img {
+  margin-left: 12%;
+}
+
+.main {
+  margin: 25px 300px;
+}
+
+.sujets {
+  margin-bottom: -0px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+}
+
+.txt {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.text_final {
+  font-size: 35px;
+  line-height: 60px;
+  text-align: center;
+}
+
+.auteur {
+  margin: 0;
+  font-size: 15px;
+  text-align: end;
+}
+
+.footer {
+  margin-top: 80px;
+  display: grid;
+  justify-content: center;
+}
+
+.eden_school {
+  margin: auto;
+  width: 100px;
+}
+
+.copyright {
+  font-size: 15px;
+  margin: 2px;
+  text-align: center;
+}
+
+.source {
+  font-size: 15px;
+  margin: 1px;
+  text-align: center;
+}
+
+.txt_bleu {
+  color: #5CB5B3;
+}
